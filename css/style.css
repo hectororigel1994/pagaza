@@ -6,6 +6,11 @@
     --dark: #1C1E32;
 }
 
+.responsive{
+    width: 200px;
+    height: auto;
+  }
+
 h1,
 h2,
 .font-weight-bold {
